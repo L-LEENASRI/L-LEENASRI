@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @L-LEENASRI
+- 👀 I’m interested in web development and competitive coding.
+- 🌱 I’m currently learning about cyber security 
+- 💞️ I’m looking to collaborate on projects related to full stack web development 
+- 📫 How to reach me ... via LinkedIn: https://www.linkedin.com/in/leena-sri-a80265259/
+- 😄 Pronouns: She/Her
